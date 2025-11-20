@@ -392,7 +392,7 @@ header .contact-details a:hover{
     width: 540px;
 }
 
-.how-to-connect .social-connect a{
+.how-to-connect .social-connect {
     color: white;
     background-color: #E40000;
     padding-left: 23px;
